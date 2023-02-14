@@ -64,7 +64,7 @@
     <p width="100%" align="center">
         <a align="left" href="https://github.com/turker1997/DC-Motor-PWM-Driving-with-Temperature-Level-Controller" title="DC-Motor-PWM-Driving-with-Temperature-Level-Controllerr"><img
                 align="left" height="115"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=aliozcanunal&repo=codier&theme=gotham"></a>
+                src="https://github-readme-stats.vercel.app/api/pin/?username=turker1997&repo=DC-Motor-PWM-Driving-with-Temperature-Level-Controller&theme=gotham"></a>
         <a align="right" href="https://github.com/aliozcanunal/Visualization-of-Covid-19-Data" title="Visualization-of-Covid-19-Data"><img
                 align="right" height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=aliozcanunal&repo=Visualization-of-Covid-19-Data&theme=gotham"></a>
