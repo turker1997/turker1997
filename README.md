@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there, I'm Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+    <h1>Hi there, I'm Türker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 </div>
 
@@ -18,7 +18,7 @@
 
 
 <div align="center">
-    <h3>Ali Özcan Ünal | 💻 Embedded System Developer| Ankara, Turkey
+    <h3>Türker ERDEM | 💻 Embedded System Developer| İstanbul, Turkey
         
 </div>
 <br />
@@ -62,7 +62,7 @@
 <br><br>
 <div>
     <p width="100%" align="center">
-        <a align="left" href="https://github.com/aliozcanunal/codier" title="Codier"><img
+        <a align="left" href="https://github.com/turker1997/DC-Motor-PWM-Driving-with-Temperature-Level-Controller" title="DC-Motor-PWM-Driving-with-Temperature-Level-Controllerr"><img
                 align="left" height="115"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=aliozcanunal&repo=codier&theme=gotham"></a>
         <a align="right" href="https://github.com/aliozcanunal/Visualization-of-Covid-19-Data" title="Visualization-of-Covid-19-Data"><img
