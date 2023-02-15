@@ -63,10 +63,10 @@
 <div>
     <p width="100%" align="center">
         <a align="left" href="https://github.com/turker1997/DC-Motor-PWM-Driving-with-Temperature-Level-Controller" title="DC-Motor-PWM-Driving-with-Temperature-Level-Controllerr"><img
-                align="left" height="145 width=500"
+                align="left" height="145 width=1000"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=turker1997&repo=DC-Motor-PWM-Driving-with-Temperature-Level-Controller&theme=gotham"></a>
         <a align="left" href="https://github.com/turker1997/Proximity-Level-Control-with-Ultrasonic-Sensor" title="Proximity-Level-Control-with-Ultrasonic-Sensor"><img
-                align="left" height="145 width=500"
+                align="left" height="145 width=1000"
                 src="https://github-readme-stats.vercel.app/api/pin/?username=turker1997&repo=Proximity-Level-Control-with-Ultrasonic-Sensor&theme=gotham"></a>
     </p>
 </div>
